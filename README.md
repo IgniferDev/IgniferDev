@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  :computer: Estudiante de Ingeniería en Tecnologías de la Información en la BUAP.<br/>
-  :earth_americas: Con sede en México | :speech_balloon: Español, Inglés (B2) y Alemán (en proceso).
+  :computer: Estudiante de Ingeniería en Tecnologías de la Información.<br/>
+  :speech_balloon: Español, Inglés (B2) Alemán (A2).
 </p>
 
 <p align="center">
@@ -49,9 +49,10 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🚀 Proyectos Destacados
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=IgniferDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgniferDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195" />
-</div>
+| 🎮 Rhythm Game (Unity) | 📊 DSS Dashboard |
+| :---: | :---: |
+| <img src="URL_DE_TU_GIF_AQUI" width="250"> | <img src="URL_DE_TU_IMAGEN_AQUI" width="250"> |
+| Juego móvil 2D con renderizado de video y parseo de charts. | Dashboard con cubos OLAP y procesamiento ETL. |
+| [Ver Repositorio](#) | [Ver Repositorio](#) |
