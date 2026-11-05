@@ -48,11 +48,3 @@
 </div>
 
 ---
-
-### 🚀 Proyectos Destacados
-
-| 🎮 Rhythm Game (Unity) | 📊 DSS Dashboard |
-| :---: | :---: |
-| <img src="URL_DE_TU_GIF_AQUI" width="250"> | <img src="URL_DE_TU_IMAGEN_AQUI" width="250"> |
-| Juego móvil 2D con renderizado de video y parseo de charts. | Dashboard con cubos OLAP y procesamiento ETL. |
-| [Ver Repositorio](#) | [Ver Repositorio](#) |
